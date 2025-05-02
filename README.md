@@ -22,10 +22,10 @@ An AI-powered tool that optimizes your resume for specific job applications usin
 
 2. Create a virtual environment and install dependencies:
     ```bash
-    uv init <project_name>
     uv venv 
     source .venv/bin/activate
-    uv add -r requirements.txt
+    uv add crewai
+    uv run src/main.py or crewai run
     ```
 
 ## Environment Setup
