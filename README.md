@@ -75,7 +75,7 @@ The system uses three specialized AI agents:
 
 ## Requirements
 
-- Python `>= 3.10` and `< 3.13`
+- Python `>= 3.13`
 - PDF resume file
 - Job posting URL
 - Company name
